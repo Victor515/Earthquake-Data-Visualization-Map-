@@ -3,13 +3,13 @@
 This project creates a Java GUI to display real-time earthquake data on a interative world map.
 Created from unfolding_app_template and UC San Diego/Coursera MOOC starter code  
 
-## INSTALLATION
+## Installation
 
 Import this folder in Eclipse ('File' -> 'Import' -> 'Existing Projects into
 Workspace', Select this folder, 'Finish')
 
 
-## MANUAL INSTALLATION
+## Manual Installation
 
 If the import does not work follow the steps below.
 
@@ -20,7 +20,7 @@ If the import does not work follow the steps below.
 - Add data/ as src
 
 
-## TROUBLE SHOOTING
+## Trouble Shooting
 
 Switch Java Compiler to 1.6 if you get VM problems. (Processing should work with Java 1.6, and 1.7)
 

@@ -19,6 +19,11 @@ If the import does not work follow the steps below.
 - Set native library location for jogl.jar. Choose appropriate folder for your OS.
 - Add data/ as src
 
+## Running
+
+In Eclipse, open 'src'->'Module6'->'EarthquakeCityMap.java',click 'run' to load the GUI.  
+Change offline to false to use online map provider.  In setup(), you change map provider to use any you like.
+
 
 ## Trouble Shooting
 
